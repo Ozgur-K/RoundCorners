@@ -15,13 +15,5 @@ This app starts at boot and draw over the screen using accessibility settings. B
   </tr>
 </table>
 
-#Rounded
-
-<img src="https://github.com/Ozgur-K/RoundCorners/blob/main/rounded.jpg" width="128"/>
-
-#Cornered
-
-<img src="https://github.com/Ozgur-K/RoundCorners/blob/main/cornered.jpg" width="128"/>
-
 
 
