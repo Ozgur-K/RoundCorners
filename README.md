@@ -6,12 +6,12 @@ This app starts at boot and draw over the screen using accessibility settings. B
 
 <table>
   <tr>
-    <td>Row 1, Column 1</td>
-    <td>Row 1, Column 2</td>
+    <td>#Rounded</td>
+    <td>#Cornered</td>
   </tr>
   <tr>
-    <td>Row 2, Column 1</td>
-    <td>Row 2, Column 2</td>
+    <td><img src="https://github.com/Ozgur-K/RoundCorners/blob/main/rounded.jpg" width="128"/></td>
+    <td><img src="https://github.com/Ozgur-K/RoundCorners/blob/main/cornered.jpg" width="128"/></td>
   </tr>
 </table>
 
