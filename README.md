@@ -4,3 +4,13 @@ If you don't like the notches on Android phones, you can use "adb size" command.
 
 This app starts at boot and draw over the screen using accessibility settings. Beside of this, you can learn how to draw on other apps in Android using, TYPE_SYSTEM_ERROR permission.
 
+#Rounded
+
+<img src="https://github.com/Ozgur-K/RoundCorners/blob/main/rounded.jpg" width="128"/>
+
+#Cornered
+
+<img src="https://github.com/Ozgur-K/RoundCorners/blob/main/cornered.jpg" width="128"/>
+
+
+
